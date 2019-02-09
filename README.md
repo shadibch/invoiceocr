@@ -35,3 +35,6 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE \
  Install the Tesseract
  sudo apt install tesseract-ocr
  pip install pytesseract
+ 
+ To run
+ python main.py <pdf or image path>
